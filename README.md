@@ -39,8 +39,9 @@
 <h3>Contacts and Resume</h3>
 <a href="https://t.me/Rizhov_Ph" ><img src="https://img.shields.io/badge/telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 <a href="mailto:alexeypakhomov88@gmail.com" ><img src="https://img.shields.io/badge/email-75b9c2?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/></a>
-<a href="https://wa.me/79057212879" ><img src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-
-<a href="https://disk.yandex.ru/i/-gCtnFVHRE_z9Q"><img src="https://img.shields.io/badge/resume-E8E8E8?style=for-the-badge&logo=readme&logoColor=white" alt="Resume">
 
 </div>
+
+<!--<a href="#" ><img src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>-->
+
+<!--<a href="#"><img src="https://img.shields.io/badge/resume-E8E8E8?style=for-the-badge&logo=readme&logoColor=white" alt="Resume">-->
