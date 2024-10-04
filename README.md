@@ -13,7 +13,9 @@
 <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5">
 <img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3">
 <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript">
+<img src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript">
 <img src="https://skillicons.dev/icons?i=react" title="React" alt="React">
+<img src="https://skillicons.dev/icons?i=redux" title="Redux" alt="Redux">
 
 <h3>Tools</h3>
 <img src="https://skillicons.dev/icons?i=vscode" title="VScode" alt="VScode">
@@ -28,11 +30,9 @@
 <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB">
 <img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="Postman">
 
-<h3>Areas of Interest</h3>
+<!--<h3>Areas of Interest</h3>
 <img src="https://skillicons.dev/icons?i=sass" title="Sass" alt="Sass">
-<img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" alt="Bootstrap">
-<img src="https://skillicons.dev/icons?i=redux" title="Redux" alt="Redux">
-<img src="https://skillicons.dev/icons?i=ts" title="TS" alt="TS">
+<img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" alt="Bootstrap">-->
 
 ---
 
